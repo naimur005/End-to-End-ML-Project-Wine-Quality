@@ -11,10 +11,9 @@ class DataTransformation:
         self.config = config
 
     
-    ## Note: You can add different data transformation techniques such as Scaler, PCA and all
-    #You can perform all kinds of FE in ML cycle here before passing this data to the model
-
-    # I am only adding train_test_spliting cz this data is already cleaned up
+    ## Note: We can add different data transformation techniques such as Scaler, PCA and all
+    # Can perform all kinds of FE in ML cycle here before passing this data to the model
+    # Now I am only adding train_test_spliting cz this data is already cleaned up 
 
 
     def train_test_spliting(self):
