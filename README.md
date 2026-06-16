@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Wine-Quality-Prediction
+https://github.com/naimur005/End-to-End-ML-Project-Wine-Quality.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
